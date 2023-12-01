@@ -11,8 +11,6 @@
 
 ## Diagramas de flujo y clase 📸
 
-![Captura de Pantalla 1](/img/Diagrama_Clase.png)
-*Diagrama de clase*
+![Diagrama de Clase](/img/Diagrama_Clase.png)
 
-![Captura de Pantalla 2](/img/Diagrama_Flujo.png)
-*Diagrama de flujo*
+![Diagrama de Flujo](/img/Diagrama_Flujo.png)
